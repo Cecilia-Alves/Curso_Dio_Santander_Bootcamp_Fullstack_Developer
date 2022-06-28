@@ -16,10 +16,16 @@ git commit -m "Escreva a anotação que vai na caixa"
 Ex:
 git commit -m "Adicionando a anotação de como usar o git bash"
 
+
+Enviar caixa
+git push origin main
+
+
+
 Entrar dentro de uma pasta
 cd mais_nome_pasta
 
 
-Significados
+Significados/Lengenda
 Untracked files = Arquivos não ratreáveis, arquivos fora da "caixa"
 
