@@ -1,0 +1,23 @@
+Clonar répositório
+git clone https://github.com/Cecilia-Alves/Curso_Dio_Santander_Bootcamp_Fullstack_Developer.git
+
+Verificar status do repositório
+git status
+
+Adicionar arquivos para subir para o repositório online, colocar dentro da "caixa"
+git add . --> para mandar tudo que está em vermelho
+git add mais_nome_arquivo --> Adiciona na caixa só esse arquivo
+Ex:
+git add "Como usar o git bash.txt"
+
+
+Fechar a caixa para envio
+git commit -m "Adicionando a anotação de como usar o git bash"
+
+Entrar dentro de uma pasta
+cd mais_nome_pasta
+
+
+Significados
+Untracked files = Arquivos não ratreáveis, arquivos fora da "caixa"
+
