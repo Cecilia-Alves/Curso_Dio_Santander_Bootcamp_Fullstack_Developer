@@ -12,6 +12,8 @@ git add "Como usar o git bash.txt"
 
 
 Fechar a caixa para envio
+git commit -m "Escreva a anotação que vai na caixa"
+Ex:
 git commit -m "Adicionando a anotação de como usar o git bash"
 
 Entrar dentro de uma pasta
